@@ -1,10 +1,90 @@
 🤖 M.S.A – Mecanismo de Sensoriamento Automático
 
-O projeto MSA (Mecanismo de Sensoriamento Automático) foi desenvolvido e
-pensado no intuito de melhora em processos na industria e bem estar do indivíduo em seu
-dia-a-dia. Utilizando os sensores de obstáculo infravermelho e ultrassônico com um auxílio de
-um Display LED, o protótipo foi desenvolvido para ter o seguinte funcionamento.
+📘 Relato Técnico – MSA (Mecanismo de Sensoriamento Automático)
 
-⚙️ Tecnologias utilizadas
- - Linguagem C
- - Arduíno
+1) 📌 INTRODUÇÃO
+
+O relato técnico é o produto final de um trabalho que descreve uma experiência dos pesquisadores nas organizações, que além de refletir o pensamento do autor, deve ser escrito com base no rigor científico e metodológico.
+
+Neste relato, abordaremos informações sobre o protótipo de sensoriamento de ambiente criado pelo grupo. Neste projeto, mostraremos um pouco da capacidade e das opções que os sensores oferecem ao ambiente profissional e até ao cotidiano da pessoa comum.
+
+O objetivo principal é beneficiar indústrias automotivas, processos produtivos envolvendo esteiras e também pessoas em seu dia a dia. Este relato busca expressar ao leitor cada processo, experiência, análise e método utilizados na criação do dispositivo.
+
+2) ⚙️ MÉTODO
+
+O projeto "MSA – Mecanismo de Sensoriamento Automático" foi idealizado com foco na melhoria de processos industriais e no bem-estar de indivíduos em situações cotidianas. Utilizando sensores de obstáculo infravermelho e ultrassônico, em conjunto com um display LED, desenvolvemos um protótipo com o seguinte funcionamento:
+
+🧩 Modelamento 3D
+
+Todo o projeto foi modelado no software CAD 3D SolidWorks 2022, com o apoio do Senac e especialmente do docente Edson Barberato, que nos transmitiu o conhecimento necessário para desenvolver o projeto com essa ferramenta.
+
+No SolidWorks realizamos:
+
+Modelagem de todas as peças;
+
+Montagem 3D dos componentes;
+
+Análise de interferência para correção de erros de projeto;
+
+Preparação de arquivos para corte a laser (extensão .DXF).
+
+🪚 Corte do Projeto
+
+A estrutura física do projeto foi construída em acrílico de 6mm, cortado em máquina Laser CNC. O arquivo de corte foi exportado do SolidWorks e, após pré-ajustes de potência e velocidade, foram definidos os seguintes parâmetros:
+
+Gravação: 50mm/s, 30W
+
+Corte: 4mm/s, 65W
+
+3) 🔍 CONTEXTO E REALIDADE INVESTIGADA
+
+Nome do Projeto: MSA – Mecanismo de Sensoriamento Automático
+
+Definição sumária e justificativa: A engenharia busca soluções práticas para problemas reais. O MSA surge como um protótipo autoguiado capaz de detectar obstáculos com precisão e eficiência, aplicável em diversos cenários logísticos e industriais.
+
+Responsável pelo relato técnico: Lucas Vilela (vice-líder do grupo), com colaboração e supervisão de Bruno Guedes (líder).
+
+Responsável pela interlocução e desenvolvimento: Lucas Vilela.
+
+Tema central: Compreender a produção e o desenvolvimento de um produto tecnológico, observando sua montagem, fabricação e funcionamento.
+
+Fonte de financiamento: Financiamento coletivo entre os membros do grupo. Materiais: R$ 242,50 | Mão de obra: R$ 310,00
+
+Situações investigadas:
+
+✅ Situações favoráveis:
+
+Montagem rápida e eficiente;
+
+Ausência de falhas estruturais e elétricas;
+
+Disponibilidade de equipamentos.
+
+⚠️ Situações desfavoráveis (riscos):
+
+Ausência de membros por questões pessoais;
+
+Mal funcionamento do robô por desajustes;
+
+Perda de arquivos importantes.
+
+Prevenção: Divisão de tarefas, testes constantes e backups em nuvem (Google Drive, Mega, Dropbox).
+
+4) 📈 RESULTADOS OBTIDOS E ANÁLISE
+
+Com a execução do projeto, esperamos atingir os seguintes objetivos:
+
+Aplicar na prática conhecimentos de engenharia e desenvolvimento de produto;
+
+Compreender o funcionamento de sensores e componentes embarcados;
+
+Realizar uma gestão eficiente de orçamento e materiais;
+
+Desenvolver um protótipo funcional e sustentável.
+
+5) 🧠 CONCLUSÃO E CONTRIBUIÇÃO TECNOLÓGICA/SOCIAL
+
+O desenvolvimento do relato técnico permitiu analisar o impacto positivo do protótipo na rotina industrial, como na medição de distância e detecção de posição de materiais (granulados, pós, fluidos). Além disso, o processo evidenciou o nível de conhecimento dos membros em cada etapa.
+
+Ainda que o projeto esteja em fase final, já é possível notar sua aplicação prática e os aprendizados obtidos em áreas como modelagem 3D, eletrônica e desenvolvimento colaborativo.
+
